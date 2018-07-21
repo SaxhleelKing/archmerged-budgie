@@ -15,7 +15,7 @@ git add --all .
 
 # Give a comment to the commit if you want
 echo "####################################"
-echo "Cool!"
+echo "Write your commit comment!"
 echo "####################################"
 
 read input
